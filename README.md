@@ -84,7 +84,7 @@ Here's why:
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should element DRY principles to the rest of your life :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people who have contributed to expanding this template!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
